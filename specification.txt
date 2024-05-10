@@ -1,0 +1,4 @@
+My 10 HTML tags are: <div>, <ul>, <li>, <a>, <h1>, <p>, <h3>, <button>, <img> and <caption>
+My 5 CSS properties are: justify-content, align-items, position, flex-wrap, and cursor. I also have all the standard ones like color, margins, width, height and left/right/top/bottom.
+I use bootstrap for the structure of the page - I have containers, rows and columns.
+I use JS for switching between pages via the menu and for indicating a correct/incorrect guess. 
